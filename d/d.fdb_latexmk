@@ -1,0 +1,19 @@
+# Fdb version 3
+["pdflatex"] 1497929545 "d.tex" "d.pdf" "d" 1497929546
+  "d.aux" 1497929546 95 b455cbcc65312a27ddbaf744904cf9b6 ""
+  "d.tex" 1497928871 241 a9adb4161267d0adf960e8b147ebe297 ""
+  "e:/Programs/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1497804375 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
+  "e:/Programs/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1497803777 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "e:/Programs/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1497803777 1288 655e228510b4c2a1abe905c368440826 ""
+  "e:/Programs/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1497803370 32080 340ef9bf63678554ee606688e7b5339d ""
+  "e:/Programs/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1497803370 35752 024fb6c41858982481f6968b5fc26508 ""
+  "e:/Programs/texlive/2017/texmf-dist/tex/latex/base/article.cls" 1497804786 19821 310da678527a7dfe2a02c88af38079b7 ""
+  "e:/Programs/texlive/2017/texmf-dist/tex/latex/base/size10.clo" 1497804786 8292 e897c12e1e886ce77fe26afc5d470886 ""
+  "e:/Programs/texlive/2017/texmf-dist/web2c/texmf.cnf" 1497804745 32646 eadc4ca26cdbe7105ac7c593aa8c4f72 ""
+  "e:/Programs/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1497806526 2373962 ac52483dc904e9618290ac66b60646fe ""
+  "e:/Programs/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1497806610 4130079 79b1c1dd887f44b235280d9eb82c4832 ""
+  "e:/Programs/texlive/2017/texmf.cnf" 1497806514 673 4ae7b2f49cee444c5343a45b5d0f169c ""
+  (generated)
+  "d.aux"
+  "d.log"
+  "d.pdf"
